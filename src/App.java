@@ -37,6 +37,9 @@ public class App {
 		System.out.println("I had some tea and had this much money after: " + balanceAfterTea);
 		System.out.println("I've made this many friends a year: " + friendsPerYear);
 		System.out.println("His full name is: " + fullName);
+
+
+			}
 	}
 
-}
+
